@@ -1,0 +1,10 @@
+jupyter 
+pandas 
+matplotlib 
+spacy 
+tqdm
+numpy
+scikit-learn 
+scipy 
+openpyxl
+nltk
